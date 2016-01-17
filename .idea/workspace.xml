@@ -28,8 +28,8 @@
       <file leaf-file-name="note.txt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/note.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.33566433">
-              <caret line="8" column="105" selection-start-line="8" selection-start-column="105" selection-end-line="8" selection-end-column="105" />
+            <state vertical-scroll-proportion="0.5874126">
+              <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -377,12 +377,12 @@
       <created>1453006949439</created>
       <option name="number" value="Default" />
       <updated>1453006949439</updated>
-      <workItem from="1453006952160" duration="2580000" />
+      <workItem from="1453006952160" duration="2666000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2580000" />
+    <option name="totallyTimeSpent" value="2666000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="33" y="23" width="1227" height="759" extended-state="0" />
@@ -457,8 +457,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/note.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33566433">
-          <caret line="8" column="105" selection-start-line="8" selection-start-column="105" selection-end-line="8" selection-end-column="105" />
+        <state vertical-scroll-proportion="0.5874126">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
           <folding />
         </state>
       </provider>

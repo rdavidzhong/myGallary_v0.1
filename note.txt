@@ -6,7 +6,10 @@ Next:
 
 Landing page - single page
 connect to backend - mongoDB
-  - store image in mongoDB( http://stackoverflow.com/questions/4796914/store-images-in-a-mongo-database )
+  - store image in mongoDB?( http://stackoverflow.com/questions/4796914/store-images-in-a-mongo-database )
+  or store image locally ?
+  - user info in mongoDB?
+
 upload function
 Automatic rename system
 blog
