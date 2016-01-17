@@ -1,8 +1,13 @@
 Reference
 
-https://css-tricks.com/html5-innershiv/
-fancyapps.com
+Basic gallery is done
 
+Next:
 
-Project + bash help tools took me ~4 hrs
-Jan 16, 2016
+Landing page - single page
+upload function
+Automatic rename system
+blog
+Registration - Authentication
+  - Email sign in
+  - social sign in
