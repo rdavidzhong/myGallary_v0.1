@@ -63,11 +63,19 @@ footer
     -ms-webkit-transition: all ls ease;
     -o-webkit-transition: all ls ease;
     transition: all ls ease;
+    /*
     filter: blur(3px);
     -webkit-filter:blur(3px);
     -moz-filter:blur(3px);
     -ms-filter:blur(3px);
     -o-filter:blur(3px);
+    */
+
+    filter: blur(0px);
+    -webkit-filter:blur(0px);
+    -moz-filter:blur(0px);
+    -ms-filter:blur(0px);
+    -o-filter:blur(0px);
     border:1px solid #000;
 }
 
