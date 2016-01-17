@@ -5,6 +5,8 @@ Basic gallery is done
 Next:
 
 Landing page - single page
+connect to backend - mongoDB
+  - store image in mongoDB( http://stackoverflow.com/questions/4796914/store-images-in-a-mongo-database )
 upload function
 Automatic rename system
 blog

@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2bf5b861-7fb9-4b6a-b4ae-c6dd92aa42df" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/note.txt" afterPath="$PROJECT_DIR$/note.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="myGallary_v0.1.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,8 +28,8 @@
       <file leaf-file-name="note.txt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/note.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5131579">
-              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.33566433">
+              <caret line="8" column="105" selection-start-line="8" selection-start-column="105" selection-end-line="8" selection-end-column="105" />
               <folding />
             </state>
           </provider>
@@ -64,7 +62,7 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="36" />
+    <option name="x" value="33" />
     <option name="y" value="23" />
     <option name="width" value="1227" />
     <option name="height" value="759" />
@@ -379,15 +377,15 @@
       <created>1453006949439</created>
       <option name="number" value="Default" />
       <updated>1453006949439</updated>
-      <workItem from="1453006952160" duration="2409000" />
+      <workItem from="1453006952160" duration="2580000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2409000" />
+    <option name="totallyTimeSpent" value="2580000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="36" y="23" width="1227" height="759" extended-state="0" />
+    <frame x="33" y="23" width="1227" height="759" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -441,6 +439,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/sync.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.08391608">
+          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -451,8 +457,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/note.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5131579">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.33566433">
+          <caret line="8" column="105" selection-start-line="8" selection-start-column="105" selection-end-line="8" selection-end-column="105" />
           <folding />
         </state>
       </provider>
